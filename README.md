@@ -15,4 +15,4 @@ Mandatory dependencies/plugins that should be in your parent pom:
 - spotbugs-maven-plugin
 - maven-surefire-plugin
 - exec-maven-plugin
-Follow clean code Practice.
+- Follow clean code Practice.
